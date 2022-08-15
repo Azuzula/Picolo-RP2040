@@ -5,4 +5,5 @@
 - Až na pár vyjímek vše bude bez nutnosti propojování vodiči. <br>
 - Jedna Cookie se může skládat ze dvou i více vrstev pokud je to nutné a může mít i vlastní propojovací piny.<br>
 - Každý, kdo navrhne svoji Cookie ji může prodávat na e-shopu www.vokolo.cz formou affiliate systému. O výrobu, balení a odeslání se postarám.<br>
+
 ** Spolupráce na vývoji Picolo a Cookies je dobrovolná a bez finanční odměny. Za prodej Cookies a za přivedení zákazníka na e-shop bude v rámci Affiliate systému možná odměna. Buď finanční a nebo na bodové konto jako sleva na nákup.<br>
