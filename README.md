@@ -16,3 +16,6 @@ Picolo is intended as a community project where anyone can make their own "Picol
 <br>
 <br>
 <img src="https://github.com/Azuzula/Picolo-RP2040/blob/main/Files/Picolo%20pinout%20v1.0.png" width="100%">
+
+(CZ) Dotazník pro vývoj Cookies pro Picolo https://bit.ly/Picolo-dotaznik
+(CZ) Výsledky dotazníku k nahlédnutí. https://bit.ly/Picolo-odpovedi
