@@ -15,7 +15,7 @@ RGB Led WS2812 on pin 6, can be disconnected if open solder pad near led
 Picolo is intended as a community project where anyone can make their own "Picolo Cookie" or "Cookie" extension. These Cookies can be stacked to form a compact tower without the need to connect wires. All produced Cookies will be OSHW (Open Source Hardware) and the source files will be available here on GitHub. Picolo Cookies will be available for purchase at the e-shop www.vokolo.cz. I will add worldwide shipping later or at request.
 <br>
 <br>
-<img src="https://github.com/Azuzula/Picolo-RP2040/blob/main/Files/Picolo%20pinout%20v1.0.png" width="100%">
+<img src="https://github.com/Azuzula/Picolo-RP2040/blob/main/Pinout/Picolo_pinout_v1.0.png" width="100%">
 
 (CZ) Dotazník pro vývoj Cookies pro Picolo https://bit.ly/Picolo-dotaznik <br>
 (CZ) Výsledky dotazníku k nahlédnutí. https://bit.ly/Picolo-odpovedi
