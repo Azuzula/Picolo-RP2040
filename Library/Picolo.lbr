@@ -126,8 +126,8 @@
 <pad name="P$17" x="9.11" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
 <pad name="P$18" x="10.38" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
 <pad name="P$19" x="11.65" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
-<pad name="P$20" x="14.19" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
-<pad name="P$21" x="12.92" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
+<pad name="P$20" x="12.92" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
+<pad name="P$21" x="14.19" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
 <pad name="P$22" x="15.46" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
 <pad name="P$23" x="16.73" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
 <pad name="P$24" x="18" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
@@ -194,8 +194,8 @@
 <smd name="P$17" x="9.11" y="-22.1" dx="1.2" dy="1.1" layer="1" roundness="100" rot="R90"/>
 <smd name="P$18" x="10.38" y="-22.1" dx="1.2" dy="1.1" layer="1" roundness="100" rot="R90"/>
 <smd name="P$19" x="11.65" y="-22.1" dx="1.2" dy="1.1" layer="1" roundness="100" rot="R90"/>
-<smd name="P$20" x="14.19" y="-22.1" dx="1.2" dy="1.1" layer="1" roundness="100" rot="R90"/>
-<smd name="P$21" x="12.92" y="-22.1" dx="1.2" dy="1.1" layer="1" roundness="100" rot="R90"/>
+<smd name="P$20" x="12.92" y="-22.1" dx="1.2" dy="1.1" layer="1" roundness="100" rot="R90"/>
+<smd name="P$21" x="14.19" y="-22.1" dx="1.2" dy="1.1" layer="1" roundness="100" rot="R90"/>
 <smd name="P$22" x="15.46" y="-22.1" dx="1.2" dy="1.1" layer="1" roundness="100" rot="R90"/>
 <smd name="P$23" x="16.73" y="-22.1" dx="1.2" dy="1.1" layer="1" roundness="100" rot="R90"/>
 <smd name="P$24" x="18" y="-22.1" dx="1.2" dy="1.1" layer="1" roundness="100" rot="R90"/>
@@ -265,6 +265,62 @@
 <text x="5.84" y="-1.91" size="1.016" layer="21" rot="R270">DO</text>
 <text x="8.38" y="-1.91" size="1.016" layer="21" rot="R270">G</text>
 <text x="1.92" y="-5.69" size="1.016" layer="21">SS</text>
+</package>
+<package name="PICOLO_V1-SMD/THT-NOPIN">
+<pad name="P$1" x="0.97" y="-3.93" drill="0.6" shape="offset" rot="R180"/>
+<pad name="P$2" x="0.97" y="-5.2" drill="0.6" shape="offset" rot="R180"/>
+<pad name="P$3" x="0.97" y="-6.47" drill="0.6" shape="offset" rot="R180"/>
+<pad name="P$4" x="0.97" y="-7.74" drill="0.6" shape="offset" rot="R180"/>
+<pad name="P$5" x="0.97" y="-9.01" drill="0.6" shape="offset" rot="R180"/>
+<pad name="P$6" x="0.97" y="-10.28" drill="0.6" shape="offset" rot="R180"/>
+<pad name="P$7" x="0.97" y="-11.55" drill="0.6" shape="offset" rot="R180"/>
+<pad name="P$8" x="0.97" y="-12.82" drill="0.6" shape="offset" rot="R180"/>
+<pad name="P$9" x="0.97" y="-14.09" drill="0.6" shape="offset" rot="R180"/>
+<pad name="P$10" x="0.97" y="-15.36" drill="0.6" shape="offset" rot="R180"/>
+<pad name="P$11" x="0.97" y="-16.64" drill="0.6" shape="offset" rot="R180"/>
+<pad name="P$12" x="0.97" y="-17.9" drill="0.6" shape="offset" rot="R180"/>
+<pad name="P$13" x="4.03" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
+<pad name="P$14" x="5.3" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
+<pad name="P$15" x="6.57" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
+<pad name="P$16" x="7.84" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
+<pad name="P$17" x="9.11" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
+<pad name="P$18" x="10.38" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
+<pad name="P$19" x="11.65" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
+<pad name="P$20" x="12.92" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
+<pad name="P$21" x="14.19" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
+<pad name="P$22" x="15.46" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
+<pad name="P$23" x="16.73" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
+<pad name="P$24" x="18" y="-21.03" drill="0.6" shape="offset" rot="R270"/>
+<pad name="P$25" x="21.03" y="-17.87" drill="0.6" shape="offset"/>
+<pad name="P$26" x="21.03" y="-16.6" drill="0.6" shape="offset"/>
+<pad name="P$27" x="21.03" y="-15.33" drill="0.6" shape="offset"/>
+<pad name="P$28" x="21.03" y="-14.06" drill="0.6" shape="offset"/>
+<pad name="P$29" x="21.03" y="-12.79" drill="0.6" shape="offset"/>
+<pad name="P$30" x="21.03" y="-11.52" drill="0.6" shape="offset"/>
+<pad name="P$31" x="21.03" y="-10.25" drill="0.6" shape="offset"/>
+<pad name="P$32" x="21.03" y="-8.98" drill="0.6" shape="offset"/>
+<pad name="P$33" x="21.03" y="-7.71" drill="0.6" shape="offset"/>
+<pad name="P$34" x="21.03" y="-6.44" drill="0.6" shape="offset"/>
+<pad name="P$35" x="21.03" y="-5.17" drill="0.6" shape="offset"/>
+<pad name="P$36" x="21.03" y="-3.9" drill="0.6" shape="offset"/>
+<pad name="P$37" x="17.97" y="-0.96" drill="0.6" shape="offset" rot="R90"/>
+<pad name="P$38" x="16.7" y="-0.97" drill="0.6" shape="offset" rot="R90"/>
+<pad name="P$39" x="15.43" y="-0.97" drill="0.6" shape="offset" rot="R90"/>
+<pad name="P$40" x="14.16" y="-0.97" drill="0.6" shape="offset" rot="R90"/>
+<pad name="P$41" x="12.89" y="-0.97" drill="0.6" shape="offset" rot="R90"/>
+<pad name="P$42" x="11.62" y="-0.97" drill="0.6" shape="offset" rot="R90"/>
+<pad name="P$43" x="10.35" y="-0.97" drill="0.6" shape="offset" rot="R90"/>
+<pad name="P$44" x="9.08" y="-0.97" drill="0.6" shape="offset" rot="R90"/>
+<pad name="P$45" x="7.81" y="-0.97" drill="0.6" shape="offset" rot="R90"/>
+<pad name="P$46" x="6.54" y="-0.97" drill="0.6" shape="offset" rot="R90"/>
+<wire x1="0" y1="-18.8" x2="3.2" y2="-22" width="0.2" layer="21" curve="90"/>
+<wire x1="3.2" y1="-22" x2="18.7" y2="-22" width="0.2" layer="21"/>
+<wire x1="18.7" y1="-22" x2="22" y2="-18.7" width="0.2" layer="21" curve="90"/>
+<wire x1="22" y1="-18.7" x2="22" y2="-3" width="0.2" layer="21"/>
+<wire x1="22" y1="-3" x2="19" y2="0" width="0.2" layer="21" curve="90"/>
+<wire x1="19" y1="0" x2="3" y2="0" width="0.2" layer="21"/>
+<wire x1="3" y1="0" x2="0" y2="-3" width="0.2" layer="21" curve="90"/>
+<wire x1="0" y1="-3" x2="0" y2="-18.8" width="0.2" layer="21"/>
 </package>
 </packages>
 <symbols>
@@ -367,14 +423,14 @@
 <connect gate="G$1" pin="DO" pad="P$46"/>
 <connect gate="G$1" pin="G" pad="P$1"/>
 <connect gate="G$1" pin="G1" pad="P$13"/>
-<connect gate="G$1" pin="G2" pad="P$21"/>
+<connect gate="G$1" pin="G2" pad="P$20"/>
 <connect gate="G$1" pin="G3" pad="P$38"/>
 <connect gate="G$1" pin="G4" pad="P$40"/>
 <connect gate="G$1" pin="G6" pad="P$44"/>
 <connect gate="G$1" pin="R" pad="P$23"/>
 <connect gate="G$1" pin="SS" pad="P$45"/>
 <connect gate="G$1" pin="SS1" pad="P$2"/>
-<connect gate="G$1" pin="SWC" pad="P$20"/>
+<connect gate="G$1" pin="SWC" pad="P$21"/>
 <connect gate="G$1" pin="SWD" pad="P$22"/>
 <connect gate="G$1" pin="VIN" pad="P$41"/>
 </connects>
@@ -420,14 +476,67 @@
 <connect gate="G$1" pin="DO" pad="P$46"/>
 <connect gate="G$1" pin="G" pad="P$1"/>
 <connect gate="G$1" pin="G1" pad="P$13"/>
-<connect gate="G$1" pin="G2" pad="P$21"/>
+<connect gate="G$1" pin="G2" pad="P$20"/>
 <connect gate="G$1" pin="G3" pad="P$38"/>
 <connect gate="G$1" pin="G4" pad="P$40"/>
 <connect gate="G$1" pin="G6" pad="P$44"/>
 <connect gate="G$1" pin="R" pad="P$23"/>
 <connect gate="G$1" pin="SS" pad="P$45"/>
 <connect gate="G$1" pin="SS1" pad="P$2"/>
-<connect gate="G$1" pin="SWC" pad="P$20"/>
+<connect gate="G$1" pin="SWC" pad="P$21"/>
+<connect gate="G$1" pin="SWD" pad="P$22"/>
+<connect gate="G$1" pin="VIN" pad="P$41"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="SMD/THT-NOPIN" package="PICOLO_V1-SMD/THT-NOPIN">
+<connects>
+<connect gate="G$1" pin="+3V3" pad="P$39"/>
+<connect gate="G$1" pin="0" pad="P$3"/>
+<connect gate="G$1" pin="1" pad="P$4"/>
+<connect gate="G$1" pin="10" pad="P$14"/>
+<connect gate="G$1" pin="11" pad="P$15"/>
+<connect gate="G$1" pin="12" pad="P$16"/>
+<connect gate="G$1" pin="13" pad="P$17"/>
+<connect gate="G$1" pin="14" pad="P$18"/>
+<connect gate="G$1" pin="15" pad="P$19"/>
+<connect gate="G$1" pin="16" pad="P$24"/>
+<connect gate="G$1" pin="17" pad="P$25"/>
+<connect gate="G$1" pin="18" pad="P$26"/>
+<connect gate="G$1" pin="19" pad="P$27"/>
+<connect gate="G$1" pin="2" pad="P$5"/>
+<connect gate="G$1" pin="20" pad="P$28"/>
+<connect gate="G$1" pin="21" pad="P$29"/>
+<connect gate="G$1" pin="22" pad="P$30"/>
+<connect gate="G$1" pin="23" pad="P$31"/>
+<connect gate="G$1" pin="24" pad="P$32"/>
+<connect gate="G$1" pin="25" pad="P$33"/>
+<connect gate="G$1" pin="26" pad="P$34"/>
+<connect gate="G$1" pin="27" pad="P$35"/>
+<connect gate="G$1" pin="28" pad="P$36"/>
+<connect gate="G$1" pin="29" pad="P$37"/>
+<connect gate="G$1" pin="3" pad="P$6"/>
+<connect gate="G$1" pin="4" pad="P$7"/>
+<connect gate="G$1" pin="5" pad="P$8"/>
+<connect gate="G$1" pin="6" pad="P$9"/>
+<connect gate="G$1" pin="7" pad="P$10"/>
+<connect gate="G$1" pin="8" pad="P$11"/>
+<connect gate="G$1" pin="9" pad="P$12"/>
+<connect gate="G$1" pin="D+" pad="P$43"/>
+<connect gate="G$1" pin="D-" pad="P$42"/>
+<connect gate="G$1" pin="DO" pad="P$46"/>
+<connect gate="G$1" pin="G" pad="P$1"/>
+<connect gate="G$1" pin="G1" pad="P$13"/>
+<connect gate="G$1" pin="G2" pad="P$20"/>
+<connect gate="G$1" pin="G3" pad="P$38"/>
+<connect gate="G$1" pin="G4" pad="P$40"/>
+<connect gate="G$1" pin="G6" pad="P$44"/>
+<connect gate="G$1" pin="R" pad="P$23"/>
+<connect gate="G$1" pin="SS" pad="P$45"/>
+<connect gate="G$1" pin="SS1" pad="P$2"/>
+<connect gate="G$1" pin="SWC" pad="P$21"/>
 <connect gate="G$1" pin="SWD" pad="P$22"/>
 <connect gate="G$1" pin="VIN" pad="P$41"/>
 </connects>
